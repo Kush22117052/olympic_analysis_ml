@@ -65,7 +65,6 @@ This project presents an in-depth analysis and visualization of the historical O
 
 - Predict medal winners using ML models
 - Correlate country GDP/population with Olympic performance
-- Deploy as an interactive web dashboard using Streamlit/Flask
 
 ---
 
