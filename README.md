@@ -57,7 +57,6 @@ This project presents an in-depth analysis and visualization of the historical O
 - Some countries dominate in specific sports (e.g., Kenya in long-distance).
 - Athletes like Michael Phelps participated in multiple Olympics with multiple medals.
 
----
 
 
 ---
